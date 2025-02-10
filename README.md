@@ -66,4 +66,7 @@ Contributions are welcome! Feel free to enhance the **dashboard, data processing
 
 ---
 
+## 📞 Contact
+For any issues or customization requests, please reach out to **ayushnauti11@gamil.com**
+
 🚀 **Discover Spotify's top songs and trends through interactive analytics!**  
