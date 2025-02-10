@@ -25,8 +25,7 @@ This project presents an **interactive Power BI dashboard** that analyzes Spotif
      - **Track attributes (energy, danceability, valence, etc.)**  
      - **Track releases over time**  
 
-## Dashboard Preview  
-![Spotify Dashboard](Spotify_Dashboard.png)  
+
 
 ## Files & Structure  
 
